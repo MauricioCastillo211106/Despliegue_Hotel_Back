@@ -4,7 +4,7 @@
   "description": "Mi aplicación",
   "main": "app.js",
   "scripts": {
-    "start": "./node_modules/.bin/tsc && node app.js"
+    "start": "./start.sh"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
